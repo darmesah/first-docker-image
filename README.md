@@ -1,0 +1,1 @@
+TO BUILD THE IMAGE, IN TERMINAL: $ docker build -t node-app:1.0 .
